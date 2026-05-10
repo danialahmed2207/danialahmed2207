@@ -27,6 +27,7 @@ Ich habe meine Karriere aus der Logistik heraus gestartet und mich konsequent in
 
 ### Cloud & Infrastruktur
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -37,11 +38,16 @@ Ich habe meine Karriere aus der Logistik heraus gestartet und mich konsequent in
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### Frontend & Tools
+### Frontend & Mobile
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### Business & Security
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
@@ -56,6 +62,7 @@ Ich habe meine Karriere aus der Logistik heraus gestartet und mich konsequent in
 |-----------|------------|-------|
 | 🎖️ **IT-Support Specialist** | IHK | 03/2026 |
 | 🐧 **Linux Essentials** | LPI | 01/2026 |
+| 🔒 **Google Cybersecurity Professional** | Coursera & Google | 2025 |
 | 🔒 **Cybersecurity: Grundwissen** | Microsoft & LinkedIn | 2025 |
 | 🤖 **Microsoft Copilot für Security** | Microsoft | 2025 |
 | 🐍 **Python für C-/Java-/C#-Entwickler** | LinkedIn Learning | 2025 |
@@ -107,6 +114,50 @@ Ich habe meine Karriere aus der Logistik heraus gestartet und mich konsequent in
 **Hands-on Erfahrung mit Containerisierung und Cloud-Services**
 
 `Docker` · `AWS` · `Cloud Computing` · `Bash`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ AWS Infrastructure as Code
+**Terraform-basierte AWS-Infrastruktur mit VPC, EC2, S3**
+
+`Terraform` · `AWS` · `VPC` · `IAM` · `CloudWatch`
+
+→ [Repository ansehen](https://github.com/danialahmed2207/aws-infra-terraform)
+
+</td>
+<td width="50%">
+
+### 🐳 Homelab Monitoring Stack
+**Docker-Stack mit Prometheus, Grafana, Loki**
+
+`Docker` · `Prometheus` · `Grafana` · `Loki`
+
+→ [Repository ansehen](https://github.com/danialahmed2207/homelab-monitoring)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐍 Python Microservice API
+**Production-ready FastAPI mit Docker & pytest**
+
+`Python` · `FastAPI` · `Docker` · `pytest`
+
+→ [Repository ansehen](https://github.com/danialahmed2207/python-microservice-template)
+
+</td>
+<td width="50%">
+
+### 🗑️ MüllMeister App
+**React Native App für Müllabfuhr-Erinnerungen**
+
+`React Native` · `Expo` · `TypeScript` · `Mobile`
+
+→ [Repository ansehen](https://github.com/danialahmed2207/muellmeister-app)
 
 </td>
 </tr>
