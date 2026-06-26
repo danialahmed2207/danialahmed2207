@@ -2,7 +2,7 @@
 
 # 👋 Hi, ich bin **Danial Ahmed**
 
-### ☁️ Cloud Engineer · 🐧 Linux Enthusiast · 🐍 Python Developer · 🔒 IT-Security
+### ☁️ Cloud Engineer · 🖥️ IT-Administrator · 🐧 Linux Enthusiast · 🐍 Python Developer · 🔒 IT-Security
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Live%20Website-00d9ff?style=for-the-badge&logo=githubpages)](https://danialahmed2207.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danial-ahmed-b2731b263)
@@ -30,6 +30,7 @@ Ich habe meine Karriere aus der Logistik heraus gestartet und mich konsequent in
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ### Backend & APIs
@@ -60,6 +61,7 @@ Ich habe meine Karriere aus der Logistik heraus gestartet und mich konsequent in
 
 | Zertifikat | Aussteller | Datum |
 |-----------|------------|-------|
+| 🏅 **IT-Administrator IHK** | IHK Akademie München | 06/2026 |
 | 🎖️ **IT-Support Specialist** | IHK | 03/2026 |
 | 🐧 **Linux Essentials** | LPI | 01/2026 |
 | 🔒 **Google Cybersecurity Professional** | Coursera & Google | 2025 |
